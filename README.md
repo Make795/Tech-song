@@ -2,7 +2,7 @@
 
 一个纯静态页面设计的音乐播放器，可以完全托管在`Github Pages`上或者其他任意静态服务器（如阿里云OSS）。
 
-- [Demo页面]([Tech-song](https://blog.tech-catfish.cloudns.ch/Tech-song/))
+
 
 ![Gmemp](img/demo.jpg)
 
